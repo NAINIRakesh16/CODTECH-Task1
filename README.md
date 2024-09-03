@@ -16,7 +16,9 @@ Project : SPI (SERIAL PERIPHERAL INTERFACE) CONTROLLER DESIGN
 
 
 
-![download1](https://github.com/user-attachments/assets/3a8adae6-8be1-489b-82d3-e1c1886d2c9d)
+
+![download1](https://github.com/user-attachments/assets/c9ba6857-4870-46af-9de3-610968a04e3a)
+
 
 
 key points:
