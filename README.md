@@ -14,6 +14,11 @@ OVERVIEW OF THE PROJECT
 
 Project : SPI (SERIAL PERIPHERAL INTERFACE) CONTROLLER DESIGN
 
+
+
+![download1](https://github.com/user-attachments/assets/3a8adae6-8be1-489b-82d3-e1c1886d2c9d)
+
+
 key points:
 
 1. Entity Declaration: Defines the SPI Master entity with ports for clock, reset, enable, clock polarity, clock phase, MISO, SCLK, SS_N, MOSI, busy, TX, and RX.
